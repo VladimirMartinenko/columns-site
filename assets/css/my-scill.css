@@ -1,0 +1,26 @@
+.heading-skill {
+  margin-bottom: 50px;
+}
+.text-scill {
+}
+.line {
+  display: inline-block;
+  width: 350px;
+  border-bottom: 3px solid #34547A;
+}
+.line-grey {
+ display: inline-block;
+  width: 95px;
+  border-bottom: 3px solid #C4C4C4;
+}
+.line-skill {
+  margin-bottom: 30px;
+  
+  }
+  .flex-text-position{
+    display: flex;
+    align-items: center;
+  }
+  .scill-flex-position {
+    margin-top: 100px;
+  }
