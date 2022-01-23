@@ -1,26 +1,28 @@
 .info {
-  background-color: #E5E5E5;
+  background-color: #e5e5e5;
 }
 .info-wrapper {
   text-align: center;
+  margin-bottom: 100px;
 }
 .heading-info {
-  margin:150px 0 50px 0 ;
-
+  margin: 150px 0 50px 0;
 }
 .text-info {
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
   font-weight: 400;
   font-size: 1rem;
   line-height: 1.6;
   color: var(--text-color);
 }
-@media screen and (max-width:992px) {
+@media screen and (max-width: 992px) {
   .heading-info {
-
-    margin:10px 0 10px 0;
+    margin: 10px 0 10px 0;
   }
-  .sub-heading{
+  .sub-heading {
     font-size: 1.5rem;
+  }
+  .info-wrapper {
+    margin-bottom: 30px;
   }
 }

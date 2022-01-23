@@ -1,26 +1,39 @@
 .heading-skill {
   margin-bottom: 50px;
 }
-.text-scill {
-}
 .line {
   display: inline-block;
   width: 350px;
-  border-bottom: 3px solid #34547A;
+  border-bottom: 3px solid #34547a;
 }
 .line-grey {
- display: inline-block;
+  display: inline-block;
   width: 95px;
-  border-bottom: 3px solid #C4C4C4;
+  border-bottom: 3px solid #c4c4c4;
 }
 .line-skill {
   margin-bottom: 30px;
-  
+}
+.flex-text-position {
+  display: flex;
+  align-items: center;
+}
+.scill-flex-position {
+  margin-top: 100px;
+}
+.skill-wrapper-img {
+  width: 100%;
+}
+@media screen and (max-width: 576px) {
+  .line {
+    width: 230px;
   }
-  .flex-text-position{
-    display: flex;
-    align-items: center;
+  .line-grey {
+    width: 50px;
   }
+}
+@media screen and (max-width: 992px) {
   .scill-flex-position {
-    margin-top: 100px;
+    margin-top: 20px;
   }
+}
