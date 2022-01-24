@@ -13,6 +13,7 @@
 }
 .line-skill {
   margin-bottom: 30px;
+  font-size: 0;
 }
 .flex-text-position {
   display: flex;

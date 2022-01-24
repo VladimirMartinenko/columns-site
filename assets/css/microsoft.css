@@ -3,7 +3,7 @@
   justify-content: space-between;
   }
   .micr-margin {
-    margin-top: 72px;
+    margin: 72px 0 100px 0;
   }
 @media screen and ( max-width:1200px){
   .display1 {

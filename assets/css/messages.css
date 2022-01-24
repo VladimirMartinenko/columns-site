@@ -1,0 +1,32 @@
+.position {
+  text-align: center;
+  
+}
+.margin-position {
+  padding-top: 65px;
+  padding-bottom: 20px;
+}
+.input {
+  width: 100%;
+  padding: 20px 0 20px 20px;
+}
+.input-pading {
+  padding: 20px 0 100px 20px;
+}
+.color {
+  background-color: #EEEFF1;
+}
+@media screen and (max-width:984px) {
+  .input {
+    width: 80%;
+  }
+}
+@media screen and (max-width:992px) {
+  .margin-media {
+    padding-top: 20px;
+  }
+  .margin-position {
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+}
