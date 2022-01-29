@@ -1,6 +1,6 @@
 .position {
   text-align: center;
-  
+   
 }
 .margin-position {
   padding-top: 65px;
@@ -16,9 +16,15 @@
 .color {
   background-color: #EEEFF1;
 }
+.top-position{
+  padding-top: 100px;
+}
 @media screen and (max-width:984px) {
   .input {
     width: 80%;
+  }
+  .top-position{
+    padding-top: 20px;
   }
 }
 @media screen and (max-width:992px) {
@@ -29,4 +35,4 @@
     padding-top: 20px;
     padding-bottom: 20px;
   }
-}
+    }

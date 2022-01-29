@@ -1,0 +1,31 @@
+.footer-heading {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 1.5rem;
+  line-height: 2;
+  color: var(--text-secondary-color);
+}
+.color-footer {
+  background-color: #34547A;
+}
+.footer-position {
+  justify-content: space-between;
+}
+.footer-img {
+  width: 80%;
+}
+.footer-img-position {
+  display: flex;
+  justify-content: start;
+  padding: 50px 0 50px 0;
+}
+.footer-text-position {
+  padding-top: 50px;
+}
+.footer-text {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 0.8rem;
+  line-height: 2;
+  color: var(--text-secondary-color);
+}
