@@ -1,4 +1,4 @@
 .working-foto {
   display: flex;
-  justify-content: stretch;
+  justify-content: flex-start;
 }
