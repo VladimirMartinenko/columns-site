@@ -3,14 +3,14 @@
   justify-content: space-between;
   }
   .micr-margin {
-    margin: 72px 0 100px 0;
+    margin: 72px 0 60px 0;
   }
 @media screen and ( max-width:1200px){
   .display1 {
     display: none;
   }
   .micr-margin {
-    margin-top: 0px;
+    margin: 5px 0 5px 0;
   }
 }
 @media screen and ( max-width:992px){

@@ -29,3 +29,11 @@
   line-height: 2;
   color: var(--text-secondary-color);
 }
+@media screen and (max-width:576px) {
+  .footer-heading {
+    font-size: 1rem;
+  }
+  .footer-text {
+    font-size: 0.6rem;
+  }
+}
